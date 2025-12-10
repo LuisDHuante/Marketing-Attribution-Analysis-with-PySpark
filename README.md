@@ -2,19 +2,19 @@
 
 # 🎬 Marketing Attribution Analysis with PySpark
 
-## 🌟 Project Overview
+## Project Overview
 
 This project addresses a Data Science challenge focused on quantifying the real-world impact of email marketing campaigns on customer purchasing behavior (movie ticket sales).
 
 The solution was built for **scalability and performance** using **Apache PySpark** as the core engine for processing large, disparate datasets (transactions, emails, customer profiles, and movie releases).
 
-## ⚙️ Key Technologies
+## Key Technologies
 
 * **Big Data Engine:** PySpark (Spark SQL, Spark MLlib)
 * **Language:** Python 3.x
 * **Libraries:** Pandas, Matplotlib, Seaborn
 
-## ✨ Technical Highlights (PySpark Focus)
+## Technical Highlights (PySpark Focus)
 
 The use of PySpark was mandatory to handle the demanding feature engineering required to create a robust model training set.
 
