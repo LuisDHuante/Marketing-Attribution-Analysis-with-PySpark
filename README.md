@@ -1,4 +1,3 @@
-# Marketing Attribution Analysis with PySpark
 
 # 🎬 Marketing Attribution Analysis with PySpark
 
